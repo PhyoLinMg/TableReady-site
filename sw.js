@@ -3,8 +3,8 @@
 // first time they are used, at the level of graphics this machine uses.
 // The build fills in the lists below (see the offline plugin in vite.config.ts). Development never registers it.
 
-const SHELL = ["assets/AdaptiveSharpness-CvDGLC4D.js","assets/Stage3D-CY83FYz9.js","assets/Walk-B9-RS6kp.js","assets/index-DTdJQgrY.css","assets/index-Dk0hO-AV.js"];
-const SHELL_CACHE = "tableready-shell-894c2642e23c";
+const SHELL = ["assets/Stage3D-Bw6h2dlM.js","assets/Walk-BTbpEjwa.js","assets/index-Br0om2E6.css","assets/index-Bs9Sy2cH.js","assets/look-BKiVaVfP.js"];
+const SHELL_CACHE = "tableready-shell-6eb92d2d4ce1";
 const PEOPLE_CACHE = "tableready-people-68299db003a7";
 const FONTS_CACHE = "tableready-fonts";
 const KEEP = [SHELL_CACHE, PEOPLE_CACHE, FONTS_CACHE];
